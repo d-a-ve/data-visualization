@@ -19,7 +19,7 @@ main {
 .data-header {
     height: 62vh;
     width: 100%;
-    background: linear-gradient(rgba(90, 122, 237, 0.2), rgba(90, 122, 237, 0.2)), url("assets/globe-2.jpg") center no-repeat;
+    background: linear-gradient(rgba(90, 122, 237, 0.2), rgba(90, 122, 237, 0.2)), url("assets/globe-2-min.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
